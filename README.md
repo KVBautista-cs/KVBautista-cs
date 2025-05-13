@@ -20,7 +20,11 @@
 
 - 👁️ [Face Detector](https://github.com/KVBautista-cs/face-detector)  
   Real-time face classification using ResNet50 in MATLAB
-
+  
+- 🛠️ FCO Renovation Platform *(Private Repository)*  
+  A full-stack construction coordination platform built for real-world contractors.  
+  Features include job tracking, quote generation, client/contractor messaging, image portfolios, and real-time AI assistance.  
+  > *Note: Due to project ownership and privacy, the source code is not publicly available — but I'm happy to discuss the architecture and technologies used upon request.*
 
 📫 **Contact Me**
 Feel free to reach out via GitHub or [email me](kbautist@cbu.edu)
