@@ -13,5 +13,14 @@
 
 ---
 
+### 🔍 Projects
+
+- 🛰️ [Rover Website](https://kvbautista-cs.github.io/rover-project/)  
+  3D interactive site using Three.js and GLTF models
+
+- 👁️ [Face Detector](https://github.com/KVBautista-cs/face-detector)  
+  Real-time face classification using ResNet50 in MATLAB
+
+
 📫 **Contact Me**
 Feel free to reach out via GitHub or [email me](kbautist@cbu.edu)
